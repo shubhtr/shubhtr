@@ -1,5 +1,7 @@
 ### Hi there! 👋
 
+https://img.shields.io/badge/React-informational?style=flat&logo=Skills&logoColor=white&color=blue
+
 <!--
 **shubhtr/shubhtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
