@@ -1,12 +1,12 @@
 ### Hi there! 👋
 
-![](https://img.shields.io/badge/React-informational?style=flat&logo=Skills&logoColor=white&color=blue)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=Skills&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Skills&logoColor=white&color=red)
-![](https://img.shields.io/badge/Express-informational?style=flat&logo=Skills&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=Skills&logoColor=white&color=green)
-![](https://img.shields.io/badge/Node-informational?style=flat&logo=Skills&logoColor=white&color=lightgrey)
+![](https://img.shields.io/badge/Express-informational?style=flat&logo=Skills&logoColor=white&color=red)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=Skills&logoColor=white&color=red)
+![](https://img.shields.io/badge/Node-informational?style=flat&logo=Skills&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Android-informational?style=flat&logo=Skills&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/iOS-informational?style=flat&logo=Skills&logoColor=white&color=grey)
+![](https://img.shields.io/badge/iOS-informational?style=flat&logo=Skills&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Skills&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=Skills&logoColor=white&color=yellowgreen)
 
