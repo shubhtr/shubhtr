@@ -8,8 +8,9 @@
 ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=Skills&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Android-informational?style=flat&logo=Skills&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/iOS-informational?style=flat&logo=Skills&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=Skills&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=Skills&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=Skills&logoColor=white&color=orange)
+![](https://img.shields.io/badge/MachineLearning-informational?style=flat&logo=Skills&logoColor=white&color=orange)
 
 <!--
 **shubhtr/shubhtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
