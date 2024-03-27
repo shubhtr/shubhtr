@@ -12,6 +12,11 @@
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Skills&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/MachineLearning-informational?style=flat&logo=Skills&logoColor=white&color=orange)
 
+<br>
+<br>
+<br>
+<br>
+
 <p>Connect with me on
 <br>
 <br>	
