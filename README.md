@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=Skills&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Skills&logoColor=white&color=red)
+![](https://img.shields.io/badge/Vue-informational?style=flat&logo=Skills&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Skills&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Node-informational?style=flat&logo=Skills&logoColor=white&color=red)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=Skills&logoColor=white&color=red)
